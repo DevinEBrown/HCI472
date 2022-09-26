@@ -1,0 +1,64 @@
+body{
+	text
+}
+
+h1, nav a{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+
+p{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+}
+
+.bg-dark{
+	background-color: rgba(90, 156, 117, 1.0) !important;
+}
+
+.homepage{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	
+}
+
+.footer{
+	height: 60px;
+	background-color: rgba(90, 156, 117, 1.0) !important;
+	width: 100%;
+	/*position: fixed;*/
+	bottom: 0;
+	color: white;
+	padding-top: 25px;
+	text-align: center;
+	margin-top: 10px;
+}
+.designpage{
+	padding-top: 10px;
+}
+.cardContainer{
+	max-width:1000px;
+}
+
+img .card-img-top{
+}
+.carouselContainer{
+	width: 100%;
+}
+
+.btn{
+	background-color: rgba(90, 156, 117, 1.0) !important;
+	border-color: rgba(90, 156, 117, 1.0) !important;
+}
+
+.btn-primary:hover{
+background-color: rgba(90, 156, 117, 0.8) !important;
+}
+
+.modal-body{
+	text-align: center;
+
+}
+iframe{
+	width: 100%;
+}
